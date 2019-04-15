@@ -28,6 +28,8 @@
     "shortid": "^2.2.8"
   },
   "devDependencies": {
-    "eslint": "^4.19.1"
+    "eslint": "^4.19.1",
+    "lodash": ">=4.17.11",
+    "extend": ">=3.0.2"
   }
 }
